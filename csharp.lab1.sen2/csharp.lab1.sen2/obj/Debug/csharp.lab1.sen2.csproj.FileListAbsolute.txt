@@ -1,0 +1,6 @@
+c:\users\администратор\documents\visual studio 2013\Projects\csharp.lab1.sen2\csharp.lab1.sen2\bin\Debug\csharp.lab1.sen2.exe.config
+c:\users\администратор\documents\visual studio 2013\Projects\csharp.lab1.sen2\csharp.lab1.sen2\bin\Debug\csharp.lab1.sen2.exe
+c:\users\администратор\documents\visual studio 2013\Projects\csharp.lab1.sen2\csharp.lab1.sen2\bin\Debug\csharp.lab1.sen2.pdb
+c:\users\администратор\documents\visual studio 2013\Projects\csharp.lab1.sen2\csharp.lab1.sen2\obj\Debug\csharp.lab1.sen2.csprojResolveAssemblyReference.cache
+c:\users\администратор\documents\visual studio 2013\Projects\csharp.lab1.sen2\csharp.lab1.sen2\obj\Debug\csharp.lab1.sen2.exe
+c:\users\администратор\documents\visual studio 2013\Projects\csharp.lab1.sen2\csharp.lab1.sen2\obj\Debug\csharp.lab1.sen2.pdb
