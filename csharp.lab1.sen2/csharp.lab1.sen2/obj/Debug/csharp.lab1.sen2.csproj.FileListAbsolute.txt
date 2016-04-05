@@ -4,3 +4,9 @@ c:\users\администратор\documents\visual studio 2013\Projects\csharp
 c:\users\администратор\documents\visual studio 2013\Projects\csharp.lab1.sen2\csharp.lab1.sen2\obj\Debug\csharp.lab1.sen2.csprojResolveAssemblyReference.cache
 c:\users\администратор\documents\visual studio 2013\Projects\csharp.lab1.sen2\csharp.lab1.sen2\obj\Debug\csharp.lab1.sen2.exe
 c:\users\администратор\documents\visual studio 2013\Projects\csharp.lab1.sen2\csharp.lab1.sen2\obj\Debug\csharp.lab1.sen2.pdb
+C:\Users\Sandra\Documents\hello-world\csharp.lab1.sen2\csharp.lab1.sen2\bin\Debug\csharp.lab1.sen2.exe.config
+C:\Users\Sandra\Documents\hello-world\csharp.lab1.sen2\csharp.lab1.sen2\bin\Debug\csharp.lab1.sen2.exe
+C:\Users\Sandra\Documents\hello-world\csharp.lab1.sen2\csharp.lab1.sen2\bin\Debug\csharp.lab1.sen2.pdb
+C:\Users\Sandra\Documents\hello-world\csharp.lab1.sen2\csharp.lab1.sen2\obj\Debug\csharp.lab1.sen2.csprojResolveAssemblyReference.cache
+C:\Users\Sandra\Documents\hello-world\csharp.lab1.sen2\csharp.lab1.sen2\obj\Debug\csharp.lab1.sen2.exe
+C:\Users\Sandra\Documents\hello-world\csharp.lab1.sen2\csharp.lab1.sen2\obj\Debug\csharp.lab1.sen2.pdb
