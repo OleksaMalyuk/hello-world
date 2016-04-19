@@ -10,3 +10,6 @@ C:\Users\Sandra\Documents\hello-world\csharp.lab1.sen2\csharp.lab1.sen2\bin\Debu
 C:\Users\Sandra\Documents\hello-world\csharp.lab1.sen2\csharp.lab1.sen2\obj\Debug\csharp.lab1.sen2.csprojResolveAssemblyReference.cache
 C:\Users\Sandra\Documents\hello-world\csharp.lab1.sen2\csharp.lab1.sen2\obj\Debug\csharp.lab1.sen2.exe
 C:\Users\Sandra\Documents\hello-world\csharp.lab1.sen2\csharp.lab1.sen2\obj\Debug\csharp.lab1.sen2.pdb
+C:\Users\Администратор\Documents\hello-world\csharp.lab1.sen2\csharp.lab1.sen2\bin\Debug\csharp.lab1.sen2.exe.config
+C:\Users\Администратор\Documents\hello-world\csharp.lab1.sen2\csharp.lab1.sen2\obj\Debug\csharp.lab1.sen2.exe
+C:\Users\Администратор\Documents\hello-world\csharp.lab1.sen2\csharp.lab1.sen2\obj\Debug\csharp.lab1.sen2.pdb

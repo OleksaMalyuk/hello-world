@@ -1,0 +1,6 @@
+c:\users\администратор\documents\visual studio 2013\Projects\sharplab1\sharplab1\bin\Debug\sharplab1.exe.config
+c:\users\администратор\documents\visual studio 2013\Projects\sharplab1\sharplab1\bin\Debug\sharplab1.exe
+c:\users\администратор\documents\visual studio 2013\Projects\sharplab1\sharplab1\bin\Debug\sharplab1.pdb
+c:\users\администратор\documents\visual studio 2013\Projects\sharplab1\sharplab1\obj\Debug\sharplab1.csprojResolveAssemblyReference.cache
+c:\users\администратор\documents\visual studio 2013\Projects\sharplab1\sharplab1\obj\Debug\sharplab1.exe
+c:\users\администратор\documents\visual studio 2013\Projects\sharplab1\sharplab1\obj\Debug\sharplab1.pdb
